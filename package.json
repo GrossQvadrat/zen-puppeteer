@@ -1,0 +1,14 @@
+{
+  "name": "dzen-puppeteer",
+  "version": "1.0.0",
+  "description": "project for zen",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Gross <test@yandex.ru>",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^2.0.0"
+  }
+}
